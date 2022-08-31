@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Durtime"
-  avatar           : "profile.png"
+  avatar           : "pho.png"
   bio              : "A student studying big data and machine learning"
   location         : "China"
   employer         :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.cnblogs.com/zhukaile"
+  linkedin         : #"https://www.cnblogs.com/zhukaile"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
+  cnblogs          : "https://www.cnblogs.com/zhukaile"
 
 # Reading Files
 include:
